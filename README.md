@@ -2,7 +2,7 @@
 
 AI-generated product filters for online shops. A merchant connects a product feed, Gemini reads each product (text and image) and turns it into structured attributes, and one script tag adds a filter panel to any storefront.
 
-**Status:** pre-launch (founder phase, no customers yet) · built solo · [Website](https://filters.itntoit.dev) · [Live demo shop](https://demo.itntoit.dev)
+**Status:** pre-launch (founder phase, no customers yet) · built solo · [Live demo shop](https://demo.itntoit.dev)
 
 > The source code is private. This repository is a showcase: architecture, key engineering decisions and selected code. I am happy to walk through the full code in an interview.
 
